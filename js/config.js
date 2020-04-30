@@ -2,7 +2,7 @@
 var config = {
 
   // ID of element to attach CMS.js to
-  elementId: 'cms',
+  elementId: 'cms2018',
 
   // Mode 'GITHUB' for Github Pages, 'SERVER' for Self Hosted
   // Defaults to Server mode if not specified
